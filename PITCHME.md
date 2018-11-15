@@ -1,9 +1,7 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
 @title[Introduction]
 
-@snap[west headline text-white span-70]
-Apache Druid<br>*A Getting Started*
-@snapend
+@snap[north headline] @css[heading](APACHE DRUID)@snapend
+@snap[south byline] A Getting Started @snapend
 
 ---
 @title[Slide Markdown]
