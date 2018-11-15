@@ -1,12 +1,8 @@
----?image=template/image/me.jpg&position=right&size=42% 100%
+---?image=template/img/me.jpg&position=right&size=42% 100%
 @title[about]
 
 @snap[north-west bio-name]
 Hoai-Thu Vuong
-@snapend
-
-@snap[east span-40]
-![](template/img/me.jpg)
 @snapend
 
 @snap[west about-bio-details span-60]
