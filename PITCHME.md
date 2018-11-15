@@ -1,7 +1,9 @@
+---
 @title[Introduction]
 
-@snap[north headline] @css[heading](APACHE DRUID) @snapend
-@snap[south byline] A Getting Started @snapend
+## Apache Druid
+<br>
+A *Getting Started*
 
 ---
 @title[Slide Markdown]
