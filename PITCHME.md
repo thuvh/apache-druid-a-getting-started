@@ -2,11 +2,7 @@
 @title[Introduction]
 
 @snap[west headline text-white span-70]
-GitPitch<br>*The Template*
-@snapend
-
-@snap[south-west byline  text-white]
-The Fastest Way From Idea To Presentation.
+Apache Druid<br>*A Getting Started*
 @snapend
 
 ---
