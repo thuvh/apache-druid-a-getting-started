@@ -1,8 +1,8 @@
----
+---?image=template/image/me.jpg&position=right&size=42% 100%
 @title[about]
 
 @snap[north-west bio-name]
-Hoai-Thu Vuong (thuvh)
+Hoai-Thu Vuong
 @snapend
 
 @snap[east span-40]
