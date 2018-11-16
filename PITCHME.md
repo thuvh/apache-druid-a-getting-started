@@ -7,13 +7,13 @@ A *Getting Started*
 
 ---?include=template/md/about/PITCHME.md
 
----?include=template/md/list-content/PITCHME.md
+---?include=template/md/introduction/PITCHME.md
 
----?include=template/md/image/PITCHME.md
+---?include=template/md/architecture/PITCHME.md
 
----?include=template/md/sidebox/PITCHME.md
+---?include=template/md/query/PITCHME.md
 
----?include=template/md/code-presenting/PITCHME.md
+---?include=template/md/development/PITCHME.md
 
 ---?include=template/md/header-footer/PITCHME.md
 
@@ -23,4 +23,4 @@ A *Getting Started*
 
 ---?include=template/md/about/PITCHME.md
 
----?include=template/md/wrap-up/PITCHME.md
+---?image=template/img/questions-3.png&size=auto 60% @title[Hỏi Đáp]
