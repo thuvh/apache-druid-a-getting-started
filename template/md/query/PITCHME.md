@@ -1,53 +1,43 @@
----?image=template/img/pencils.jpg
-@title[Quotation Templates]
-
-## @color[black](Quotation<br>Slide Templates)
-
-@fa[arrow-down text-black]
-
-@snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
-
-
-+++?image=template/img/einstein.png&position=left&size=60% auto
-@title[Quote + Image]
-
-@snap[north-east span-60]
-@quote[We cannot solve our problems with the same thinking we used when we created them.]
-@snapend
-
-@snap[south-east template-note text-gray]
-Simple quotation with image template.
-@snapend
-
-+++?image=template/img/moon.jpg&size=cover
-@title[Quote Attributed]
-
-@snap[east text-white span-50]
-@quote[Houston, Tranquillity Base here. The Eagle has landed.](Neil Armstrong)
-@snapend
-
-@snap[north-east template-note text-white]
-Quotation with attribution template.
-@snapend
-
-+++?image=template/img/quotes.jpg
-@title[Quote Cloud]
-
-@snap[south-east span-50]
-@quote[GitPitch Desktop with speaker notes is AMAZING!](Dave T.)
-@snapend
+---
+@title[query - overview]
 
 @snap[north-west]
-<br>
-@quote[GitPitch is just WONDERFUL!](Mohammed A.)
+Data Ingestion
 @snapend
 
-@snap[south-west span-20]
-@quote[Just discovered GitPitch. And WOW!](Adrian K.)
+@snap[west list-content-concise span-45]
+@ul[](false)
+- lưu tại data source
+- "chunk", "segment"
+- compact and support fast queries
+@ulend
 @snapend
 
-@snap[north-west template-note text-black]
-Quotation cloud template.
+@snap[east list-content-concise span-45]
+![timeline](template/img/druid-timeline.png)
+@snapend
+
+---
+@title[query - overview]
+
+@snap[north-west]
+Query
+@snapend
+
+@snap[west list-content-concise span-45]
+@ul[](false)
+- Aggregation Queries
+    + Timeseries
+    + TopN
+    + GroupBy
+- Metadata Queries
+    + Time Boundary
+    + Segment Metadata
+    + Datasource Metadata
+- Search Queries
+@ulend
+@snapend
+
+@snap[east list-content-concise span-45]
+![timeline](template/img/druid-timeline.png)
 @snapend

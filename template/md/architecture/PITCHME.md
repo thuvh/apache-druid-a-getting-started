@@ -24,7 +24,7 @@ Middle Manager
 @snap[west list-content-concise span-100]
 @ul[](false)
 - đánh chỉ mục dữ liệu batch và realtime
-- thông báo trạng tháy và dữ liệu phục vụ cho zookeeper
+- thông báo trạng thái và dữ liệu phục vụ cho zookeeper
 - in-memory index buffer 
 - persist to disk (đảm bảo bộ nhớ)
 - sử dụng các block dữ liệu theo thời gian
