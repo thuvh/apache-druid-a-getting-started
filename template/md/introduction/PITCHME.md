@@ -65,7 +65,7 @@ Motivation
 - có rất nhiều các luồng sự kiện
     + call logs
     + network flows
-- tìm kiếm các thông tin có ý nghĩa từ luồng này
+- phân tích và tìm kiếm các thông tin có ý nghĩa
 - giải pháp
     + hadoop: chậm
     + rdms, no sql architecture
@@ -108,12 +108,12 @@ một định nghĩa về druid
 - data store
 - high-performance slice and dice analytics 
 - large data sets
-- click stream analytics
-- network flow analytics
-- server metric storage
-- application performance metrics
-- digital marketing analytic
-- business intelligence / OLAP
+    - click stream analytics
+    - network flow analytics
+    - server metric storage
+    - application performance metrics
+    - digital marketing analytic
+    - business intelligence / OLAP
 @ulend
 @snapend
 

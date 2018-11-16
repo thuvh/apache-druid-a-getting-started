@@ -1,78 +1,45 @@
----?image=template/img/pencils.jpg
-@title[Sidebox Templates]
+---
+@title[demo - architect]
 
-## @color[black](Sidebox<br>Slide Templates)
-
-@fa[arrow-down text-black]
-
-@snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
+@snap[north-west]
+Kiến trúc hệ thống
 @snapend
 
-
-+++?image=template/img/bg/blue.jpg&position=left&size=30% 50%
-@title[Sidebox + Heading]
-
-@snap[west text-white]
-@size[3em](A.)
+@snap[midpoint span-90]
+![Druid](template/img/druid-architecture.png)
 @snapend
 
-@snap[east span-70]
-<h2>Sunt in @css[text-pink](culpa) officia</h2>
+@snap[south-west template-note text-gray]
+[druid: a real-time analytical data store](http://static.druid.io/docs/druid.pdf)
 @snapend
 
-@snap[north-east template-note text-gray]
-Sidebox with heading body template.
+---
+@title[demo - hardware]
+
+@snap[north-west]
+Phần cứng
 @snapend
 
-
-+++?image=template/img/bg/orange.jpg&position=left&size=30% 50%
-@title[Sidebox + Image Body]
-
-@snap[west text-white]
-@size[3em](B.)
+@snap[west list-content-concise span-100]
+@ul[](false)
+- DigitalOcean 5 * (2vCPU 4GB RAM) + 1 * (1vCPU 1GB RAM)
+- domain: vuonghoaithu.name.vn 
+- sadalmelik, sadalsuub, sadachbia, skat, albali, doitung
+@ulend
 @snapend
 
-@snap[east span-70]
-![FRIDAY](template/img/friday.gif)
+---
+@title[demo - role]
+
+@snap[north-west]
+Vai trò
 @snapend
 
-@snap[north-east template-note text-gray]
-Sidebox with image body template.
-@snapend
-
-
-+++?image=template/img/bg/green.jpg&position=left&size=30% 50%
-@title[Sidebox + Mixed Body]
-
-@snap[west text-white]
-@size[3em](C.)
-@snapend
-
-@snap[east span-70]
-@fa[bath fa-5x text-blue]
-<br><br>
-How to write clean code.
-@snapend
-
-@snap[north-east template-note text-gray]
-Sidebox with mixed body template.
-@snapend
-
-
-+++?image=template/img/bg/pink.jpg&position=left&size=30% 50%
-@title[Sidebox + Text Body]
-
-@snap[west text-white]
-@size[3em](D.)
-@snapend
-
-@snap[east span-70]
-Ut enim ad minim veniam, quis @css[text-pink](nostrud exercitation ullamco laboris) nisi ut aliquip ex ea commodo.
-<br><br>
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-@snapend
-
-@snap[north-east template-note text-gray]
-Sidebox with text body template.
+@snap[west list-content-concise span-100]
+@ul[](false)
+- PostgreSQL: sadalmelik
+- Hadoop: sadalmelik (namenode, worker); albali, doitung (worker)
+- Zookeeper: sadalsuub, sadachbia, skat
+- Druid: sadalsuub (overlord, coordinator), sadachbia (historical, middle manager), skat (broker)
+@ulend
 @snapend
