@@ -1,1 +1,1 @@
----?image=template/img/questions-3.png&size=auto 60% @title[Hỏi Đáp]
++++?image=template/img/questions-3.png&size=auto 60% @title[Hỏi Đáp]
