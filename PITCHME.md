@@ -15,12 +15,6 @@ A *Getting Started*
 
 ---?include=template/md/development/PITCHME.md
 
----?include=template/md/header-footer/PITCHME.md
-
----?include=template/md/quotation/PITCHME.md
-
----?include=template/md/announcement/PITCHME.md
-
----?include=template/md/about/PITCHME.md
+---?include=template/md/demo/PITCHME.md
 
 ---?image=template/img/questions-3.png&size=auto 60% @title[Hỏi Đáp]

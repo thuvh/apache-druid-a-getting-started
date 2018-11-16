@@ -1,4 +1,4 @@
----?image=template/img/pencils.jpg
+---
 @title[Announcement Templates]
 
 ## @color[black](Announcement<br>Slide Templates)
