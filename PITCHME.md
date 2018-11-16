@@ -7,8 +7,6 @@ A *Getting Started*
 
 ---?include=template/md/about/PITCHME.md
 
----?include=template/md/sidebar/PITCHME.md
-
 ---?include=template/md/list-content/PITCHME.md
 
 ---?include=template/md/image/PITCHME.md
@@ -26,14 +24,3 @@ A *Getting Started*
 ---?include=template/md/about/PITCHME.md
 
 ---?include=template/md/wrap-up/PITCHME.md
-
----
-@title[The Template Docs]
-
-@snap[west headline span-100]
-GitPitch<br>*The Template @css[text-orange](End) ;)*
-@snapend
-
-@snap[south docslink span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
