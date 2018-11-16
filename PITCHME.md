@@ -17,4 +17,4 @@ A *Getting Started*
 
 ---?include=template/md/demo/PITCHME.md
 
----?image=template/img/questions-3.png&size=auto 60% @title[Hỏi Đáp]
+---?include=template/md/wrap-up/PITCHME.md
