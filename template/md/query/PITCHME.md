@@ -20,9 +20,6 @@ Data Ingestion
 ---
 @title[query - overview]
 
-@snap[north-west]
-Query
-@snapend
 
 @snap[west list-content-concise span-45]
 @ul[](false)
