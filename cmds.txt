@@ -1,0 +1,8 @@
+curl -X 'POST' -H 'Content-Type:application/json' -d @examples/wikipedia-index.json http://sadalsuud.vuonghoaithu.name.vn:8090/druid/indexer/v1/task
+
+curl -X 'POST' -H 'Content-Type:application/json' -d @examples/wikipedia-top-pages.json http://skat.vuonghoaithu.name.vn:8082/druid/v2?pretty
+
+curl -X 'POST' -H 'Content-Type:application/json' -d @examples/wikipedia-top-pages.json http://skat.local.vuonghoaithu.name.vn:8082/druid/v2?pretty
+
+
+curl -X 'POST' -H 'Content-Type:application/json' -d @examples/wikipedia-index-hadoop.json http://sadalsuud.vuonghoaithu.name.vn:8090/druid/indexer/v1/task
